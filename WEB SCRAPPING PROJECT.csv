@@ -1,0 +1,602 @@
+,Name,Age,Overall_Rating,Potential,Team_Name,Contract_Year,Value(M),Wage(K),Total_Stats
+0,,,,,,,,,
+1,M.Sarr,22,74,78,Chelsea,2020 ~ 2025,5.5M,56K,1886
+2,É.Mendy,29,83,85,Chelsea,2020 ~ 2025,30M,105K,1168
+3,P.Daka,22,77,84,Leicester City,2021 ~ 2026,21.5M,78K,1848
+4,J.Timber,20,77,87,Ajax,2019 ~ 2024,21.5M,11K,1912
+5,A.Spörle,25,64,66,Dundee United,2019 ~ 2022,675K,2K,1727
+6,F.Wirtz,18,79,90,Bayer 04 Leverkusen,2020 ~ 2026,37M,19K,1947
+7,D.Kamada,24,79,82,Eintracht Frankfurt,2017 ~ 2023,24M,29K,1924
+8,C.DeKetelaere,20,76,86,Club Brugge KV,2018 ~ 2024,16.5M,20K,2016
+9,D.Maldini,19,59,77,AC Milan,2018 ~ 2024,575K,3K,1575
+10,CristianoRonaldo,36,91,91,Manchester United,2021 ~ 2023,45M,270K,2207
+11,LucasPaquetá,23,81,86,Olympique Lyonnais,2020 ~ 2025,39M,65K,2196
+12,J.Bellingham,18,79,89,Borussia Dortmund,2020 ~ 2025,37M,21K,2077
+13,Antony,21,80,88,Ajax,2020 ~ 2025,47.5M,18K,1961
+14,M.Salah,29,89,89,Liverpool,2017 ~ 2023,101M,270K,2211
+15,E.Haaland,20,88,93,Borussia Dortmund,2020 ~ 2024,137.5M,110K,2102
+16,N.Madueke,19,77,88,PSV,2019 ~ 2025,23M,11K,1897
+17,Gavi,16,68,85,FC Barcelona,2020 ~ 2023,3M,5K,1735
+18,M.Greenwood,19,78,89,Manchester United,2018 ~ 2025,30.5M,56K,1955
+19,K.Adeyemi,19,72,86,FC Red Bull Salzburg,2018 ~ 2024,5.5M,13K,1851
+20,B.BreretonDíaz,22,73,80,Blackburn Rovers,2019 ~ 2022,6M,33K,1827
+21,A.Tchouaméni,21,79,86,AS Monaco,2020 ~ 2024,35.5M,41K,2093
+22,Pedri,18,81,91,FC Barcelona,2020 ~ 2022,54M,51K,2023
+23,R.Gravenberch,19,78,90,Ajax,2018 ~ 2023,33M,11K,2074
+24,cmRaphinha,24,82,87,Leeds United,2020 ~ 2024,46M,89K,2100
+25,J.Gvardiol,19,75,87,RB Leipzig,2021 ~ 2026,12.5M,27K,1966
+26,M.Lacroix,21,79,86,VfL Wolfsburg,2020 ~ 2025,33M,42K,1742
+27,L.Messi,34,93,93,Paris Saint-Germain,2021 ~ 2023,78M,320K,2219
+28,N.Lang,22,78,85,Club Brugge KV,2021 ~ 2025,28.5M,27K,2013
+29,F.Chiesa,23,83,91,Juventus ," 1, 2022 ",80.5M,74K,2052
+30,PedroBenito,21,60,69,Cádiz CF,2021 ~ 2023,550K,4K,1480
+31,A.Hložek,18,76,87,AC Sparta Praha,2019 ~ 2024,16M,5,1909
+32,R.Cherki,17,73,88,Olympique Lyonnais,2019 ~ 2023,7M,9K,1712
+33,Y.Tielemans,24,84,87,Leicester City,2019 ~ 2023,57M,125K,2187
+34,AnsuFati,18,76,90,FC Barcelona,2018 ~ 2022,17.5M,44K,1814
+35,J.Musiala,18,76,88,FC Bayern München,2020 ~ 2026,17.5M,20K,1736
+36,K.Mitoma,24,73,78,Royale Union Saint-Gilloise ," 30, 2022 ",4.6M,40K,1865
+37,K.Mbappé,22,91,95,Paris Saint-Germain,2018 ~ 2022,194M,230K,2175
+38,E.Camavinga,18,78,89,Real Madrid CF,2021 ~ 2027,29.5M,44K,2089
+39,D.Vlahović,21,78,85,Fiorentina,2018 ~ 2023,29M,43K,1779
+40,J.Sancho,21,87,91,Manchester United,2021 ~ 2026,116.5M,150K,2007
+41,YeremyPino,18,74,85,Villarreal CF,2020 ~ 2024,9M,9K,1709
+42,A.Davies,20,82,89,FC Bayern München,2019 ~ 2025,57M,59K,2115
+43,A.Bastoni,22,80,88,Inter,2017 ~ 2024,44.5M,77K,1801
+44,P.Foden,21,84,92,Manchester City,2016 ~ 2024,94.5M,125K,2060
+45,J.Koundé,22,83,89,Sevilla FC,2019 ~ 2024,53M,33K,1914
+46,G.Raspadori,21,74,88,U.S. Sassuolo Calcio,2019 ~ 2022,10.5M,22K,1764
+47,T.Hernández,23,84,90,AC Milan,2019 ~ 2024,62.5M,51K,2185
+48,D.Scarlett,17,63,86,Tottenham Hotspur,2020 ~ 2023,1.5M,3K,1502
+49,A.Isak,21,82,86,Real Sociedad,2019 ~ 2026,45M,37K,1910
+50,F.Kessié,24,84,86,AC Milan,2019 ~ 2022,49.5M,51K,2196
+51,H.Elliott,18,73,87,Liverpool,2019 ~ 2025,7M,29K,1687
+52,S.Tonali,21,77,86,AC Milan,2021 ~ 2026,22.5M,25K,2082
+53,NunoMendes,19,78,88,Paris Saint-Germain ," 30, 2022 ",29M,8K,2009
+54,S.Dest,20,76,85,FC Barcelona,2020 ~ 2025,15.5M,67K,1974
+55,M.Vandevoordt,19,71,87,KRC Genk,2018 ~ 2023,4.3M,3K,1071
+56,A.Broja,19,70,84,Southampton ," 30, 2022 ",3.8M,29K,1663
+57,J.Doku,19,77,87,Stade Rennais FC,2020 ~ 2025,23M,29K,1810
+58,J.David,21,78,86,LOSC Lille,2020 ~ 2025,32M,31K,1862
+59,GonçaloInácio,19,76,86,Sporting CP,2019 ~ 2025,15M,7K,1676
+60,FerranTorres,21,82,90,Manchester City,2020 ~ 2025,68.5M,120K,1995
+61,A.Hakimi,22,85,89,Paris Saint-Germain,2021 ~ 2026,73M,100K,2188
+62,K.Havertz,22,84,92,Chelsea,2020 ~ 2025,94.5M,130K,2038
+63,R.Araujo,22,78,86,FC Barcelona,2018 ~ 2023,29.5M,90K,1706
+64,cosLlorente,26,86,89,Atlético de Madrid,2019 ~ 2027,88M,95K,2252
+65,B.Kamara,21,80,86,Olympique de Marseille,2017 ~ 2022,31M,30K,1954
+66,B.Šeško,18,68,86,FC Red Bull Salzburg,2021 ~ 2026,3.1M,5K,1745
+67,G.Reyna,18,77,87,Borussia Dortmund,2019 ~ 2025,22M,18K,1919
+68,T.Nianzou,19,71,85,FC Bayern München,2020 ~ 2024,4.2M,18K,1653
+69,D.Rensch,18,73,85,Ajax,2019 ~ 2025,7M,3K,1863
+70,T.Tomiyasu,22,75,85,Arsenal,2021 ~ 2026,12M,49K,1754
+71,R.James,21,81,86,Chelsea,2017 ~ 2025,37M,76K,2098
+72,E.Tapsoba,22,81,88,Bayer 04 Leverkusen,2020 ~ 2026,48.5M,49K,1914
+73,X.Simons,18,66,83,Paris Saint-Germain,2019 ~ 2022,2.2M,6K,1793
+74,T.HenryFree,36,79,79, FranceFree,,0,0,1882
+75,D.Kulusevski,21,81,89,Juventus,2019 ~ 2024,58M,72K,2089
+76,T.Chalobah,21,73,80,Chelsea,2016 ~ 2023,5.5M,43K,1741
+77,T.Almada,20,74,86,Vélez Sarsfield,2018 ~ 2023,10M,10K,1985
+78,NeymarJr,29,91,91,Paris Saint-Germain,2017 ~ 2025,129M,270K,2183
+79,J.Correa,26,81,82,Inter ," 30, 2022 ",31M,76K,1972
+80,D.Upamecano,22,82,90,FC Bayern München,2021 ~ 2026,64M,70K,1846
+81,R.Lukaku,28,88,88,Chelsea,2021 ~ 2026,93.5M,260K,2061
+82,P.Pogba,28,87,87,Manchester United,2016 ~ 2022,79.5M,220K,2222
+83,F.deJong,24,87,92,FC Barcelona,2019 ~ 2026,119.5M,210K,2229
+84,D.Rice,22,82,87,West Ham United,2016 ~ 2024,43M,69K,1976
+85,M.Mount,22,83,89,Chelsea,2016 ~ 2024,58.5M,120K,2099
+86,H.Son,28,89,89,Tottenham Hotspur,2015 ~ 2025,104M,220K,2142
+87,T.Lamptey,20,74,84,Brighton &amp; Hove Albion,2020 ~ 2025,9M,29K,1812
+88,PauTorres,24,82,89,Villarreal CF,2016 ~ 2024,56.5M,35K,1883
+89,D.Zakaria,24,80,86,Borussia Mönchengladbach,2017 ~ 2022,30.5M,28K,2034
+90,D.Szoboszlai,20,77,87,RB Leipzig,2021 ~ 2026,23M,46K,1961
+91,B.Saka,19,80,88,Arsenal,2018 ~ 2025,45.5M,50K,2045
+92,N.Barella,24,84,89,Inter,2020 ~ 2024,63.5M,120K,2236
+93,M.Icardi,28,83,83,Paris Saint-Germain,2020 ~ 2024,37M,120K,1927
+94,T.Kubo,20,75,88,RCD Mallorca ," 30, 2022 ",13.5M,77K,1821
+95,E.tínez,28,84,85,Aston Villa,2020 ~ 2024,33.5M,81K,1449
+96,cmR.Barkley,27,78,79,Chelsea,2018 ~ 2023,16M,95K,1996
+97,cmM.Aarons,21,75,83,Norwich City,2017 ~ 2024,12M,21K,1799
+98,A.Saint-Maximin,24,79,84,Newcastle United,2019 ~ 2026,26.5M,41K,1855
+99,L.Stergiou,19,67,86,FC St. Gallen 1879,2019 ~ 2024,2.5M,2K,1531
+100,D.vandeBeek,24,81,86,Manchester United,2020 ~ 2025,38.5M,110K,2141
+101,ViníciusJr.,20,80,90,Real Madrid CF,2018 ~ 2025,46.5M,120K,1919
+102,H.Maguire,28,84,86,Manchester United,2019 ~ 2024,42.5M,155K,1950
+103,JoãoFélix,21,83,91,Atlético de Madrid,2019 ~ 2026,82M,61K,2065
+104,AdamaTraoré,25,78,81,Wolverhampton Wanderers,2018 ~ 2023,18.5M,79K,1914
+105,C.Palmer,19,64,84,Manchester City,2018 ~ 2026,1.6M,14K,1672
+106,EricGarcía,20,76,85,FC Barcelona,2021 ~ 2026,15.5M,67K,1783
+107,C.Jones,20,73,85,Liverpool,2018 ~ 2025,7.5M,49K,1906
+108,W.Fofana,20,78,86,Leicester City,2020 ~ 2025,29M,57K,1770
+109,C.Romero,23,82,87,Tottenham Hotspur ," 30, 2022 ",41.5M,51K,1837
+110,B.Godfrey,23,77,85,Everton,2020 ~ 2025,22M,56K,1849
+111,DiogoCosta,21,75,86,FC Porto,2016 ~ 2022,11M,6K,1091
+112,T.Alexander-Arnold,22,87,92,Liverpool,2015 ~ 2025,114M,150K,2227
+113,J.Vardy,34,86,86,Leicester City,2012 ~ 2023,33M,180K,2135
+114,Y.Demir,18,72,85,FC Barcelona ," 30, 2022 ",5.5M,9K,1698
+115,M.Ødegaard,22,82,88,Arsenal,2021 ~ 2026,49M,89K,2090
+116,Kayky,18,66,87,Manchester City,2021 ~ 2025,2.7M,12K,1567
+117,I.Sarr,23,78,86,Watford,2019 ~ 2024,31M,53K,1833
+118,V.Osimhen,22,80,87,Napoli,2020 ~ 2025,43M,66K,1961
+119,HighJ.Álvarez,21,75,85,River Plate,2018 ~ 2022,12.5M,14K,1960
+120,A.BellaKotchap,19,71,85,VfL Bochum 1848,2019 ~ 2024,4.2M,8K,1524
+121,M.Damsgaard,20,77,87,U.C. Sampdoria,2020 ~ 2024,23M,16K,1945
+122,C.Tzolis,19,74,87,Norwich City,2021 ~ 2026,10M,17K,1890
+123,J.St.Juste,24,76,80,1. FSV Mainz 05,2019 ~ 2023,9.5M,19K,1983
+124,B.Gilmour,20,72,86,Norwich City ," 30, 2022 ",5.5M,43K,1846
+125,I.Moriba,18,73,85,RB Leipzig,2021 ~ 2026,7M,17K,1861
+126,L.tínez,23,79,85,Ajax,2019 ~ 2023,25M,16K,2068
+127,RafaelLeão,22,77,82,AC Milan,2019 ~ 2024,16M,36K,1838
+128,M.Rashford,23,85,89,Manchester United,2014 ~ 2023,77.5M,150K,2146
+129,F.Carvalho,18,67,86,Fulham,2018 ~ 2022,2.6M,6K,1601
+130,L.Delap,18,64,85,Manchester City,2020 ~ 2026,1.9M,9K,1558
+131,P.Dybala,27,87,88,Juventus,2015 ~ 2022,93M,160K,2134
+132,N.Mazraoui,23,80,85,Ajax,2016 ~ 2022,29.5M,17K,2029
+133,E.SmithRowe,20,76,86,Arsenal,2017 ~ 2023,16.5M,49K,1782
+134,S.Milinković-Savić,26,85,87,Lazio,2015 ~ 2024,66M,100K,2224
+135,K.Benzema,33,89,89,Real Madrid CF,2009 ~ 2023,66M,350K,2116
+136,R.Lewandowski,32,92,92,FC Bayern München,2014 ~ 2023,119.5M,270K,2212
+137,J.Grealish,25,84,85,Manchester City,2021 ~ 2027,50.5M,180K,2018
+138,RenatoSanches,23,80,86,LOSC Lille,2019 ~ 2023,33M,38K,2218
+139,P.DelaVega,20,74,86,Club Atlético Lanús,2018 ~ 2023,10M,13K,1984
+140,A.Velasco,18,73,85,Club Atlético Independiente,2018 ~ 2023,7M,4K,1880
+141,L.Netz,18,69,85,Borussia Mönchengladbach,2021 ~ 2026,3.4M,3K,1703
+142,Z.Ibrahimović,39,84,84,AC Milan,2020 ~ 2022,14.5M,51K,2040
+143,W.Ndidi,24,85,88,Leicester City,2017 ~ 2024,66.5M,120K,2113
+144,Gabrieltinelli,20,76,88,Arsenal,2019 ~ 2024,18M,49K,1883
+145,M.deLigt,21,85,90,Juventus,2019 ~ 2024,75M,81K,1975
+146,C.Gakpo,22,79,85,PSV,2016 ~ 2025,28M,19K,1991
+147,D.Malen,22,80,85,Borussia Dortmund,2021 ~ 2026,33M,59K,1986
+148,H.Kane,27,90,90,Tottenham Hotspur,2010 ~ 2024,129.5M,240K,2205
+149,L.tínez,23,85,89,Inter,2018 ~ 2023,78M,145K,2145
+150,N.Kanté,30,90,90,Chelsea,2016 ~ 2023,100M,230K,2179
+151,E.Hazard,30,85,85,Real Madrid CF,2019 ~ 2024,52M,240K,2055
+152,S.Mané,29,89,89,Liverpool,2016 ~ 2023,101M,270K,2191
+153,R.Baku,23,80,85,VfL Wolfsburg,2020 ~ 2025,32M,59K,2095
+154,M.Depay,27,85,86,FC Barcelona,2021 ~ 2023,63M,220K,2081
+155,BrunoFernandes,26,88,89,Manchester United,2020 ~ 2025,107.5M,250K,2341
+156,Cucurella,22,81,87,Brighton &amp; Hove Albion,2021 ~ 2026,41.5M,63K,2107
+157,C.Hudson-Odoi,20,77,87,Chelsea,2017 ~ 2024,23M,72K,1886
+158,PedroGonçalves,23,81,88,Sporting CP,2020 ~ 2025,51.5M,19K,2094
+159,M.Diaby,21,81,88,Bayer 04 Leverkusen,2019 ~ 2025,52.5M,52K,1884
+160,L.Suárez,34,88,88,Atlético de Madrid,2020 ~ 2022,44.5M,135K,2307
+161,J.Kimmich,26,89,90,FC Bayern München,2015 ~ 2025,108M,160K,2283
+162,K.Phillips,25,81,85,Leeds United,2014 ~ 2024,32.5M,82K,2090
+163,J.Tanganga,22,74,84,Tottenham Hotspur,2017 ~ 2025,9M,49K,1798
+164,H.Aouar,23,81,85,Olympique Lyonnais,2016 ~ 2023,37M,65K,2115
+165,O.Popescu,18,70,85,FCSB (Steaua),2020 ~ 2024,3.7M,4K,1723
+166,R.Loftus-Cheek,25,75,78,Chelsea,2013 ~ 2024,7.5M,74K,1924
+167,R.Sessegnon,21,74,83,Tottenham Hotspur,2019 ~ 2025,9M,41K,1957
+168,L.Goretzka,26,87,88,FC Bayern München,2018 ~ 2026,93M,140K,2314
+169,A.Vranckx,18,67,85,VfL Wolfsburg,2021 ~ 2025,2.6M,6K,1832
+170,I.Toney,25,76,80,Brentford,2020 ~ 2025,10.5M,46K,1966
+171,Oyarzabal,24,85,89,Real Sociedad,2014 ~ 2024,77.5M,57K,2056
+172,N.Zaniolo,21,78,87,Roma,2018 ~ 2024,31.5M,38K,2057
+173,Rodrygo,20,79,88,Real Madrid CF,2019 ~ 2025,38.5M,115K,1928
+174,A.Karabec,17,72,85,AC Sparta Praha,2020 ~ 2023,5.5M,5,1788
+175,N.Mukiele,23,81,85,RB Leipzig,2018 ~ 2023,34.5M,65K,1995
+176,F.Tomori,23,79,85,AC Milan,2021 ~ 2025,25M,35K,1782
+177,ÉderMilitão,23,82,89,Real Madrid CF,2019 ~ 2025,56.5M,130K,2018
+178,N.Rovella,19,70,87,Genoa ," 30, 2022 ",4.1M,19K,1821
+179,L.Shaw,25,84,86,Manchester United,2014 ~ 2023,48.5M,140K,2128
+180,M.Kean,21,79,87,Juventus ," 30, 2023 ",39.5M,69K,1875
+181,C.Pulisic,22,82,88,Chelsea,2019 ~ 2024,49M,120K,1955
+182,RúbenNeves,24,82,87,Wolverhampton Wanderers,2017 ~ 2024,46M,89K,2167
+183,R.Sterling,26,88,89,Manchester City,2015 ~ 2023,107.5M,290K,2113
+184,M.Locatelli,23,82,87,Juventus,2021 ~ 2023,42M,74K,2113
+185,L.Jović,23,79,84,Real Madrid CF,2019 ~ 2024,27M,130K,1912
+186,E.Álvarez,23,78,84,Ajax,2019 ~ 2024,20.5M,15K,1929
+187,FábioSilva,18,70,85,Wolverhampton Wanderers,2020 ~ 2025,3.7M,16K,1614
+188,J.Frimpong,20,74,84,Bayer 04 Leverkusen,2021 ~ 2025,9M,25K,1906
+189,M.Maignan,25,84,89,AC Milan,2021 ~ 2026,49.5M,45K,1456
+190,K.Kozłowski,17,68,85,Pogoń Szczecin,2019 ~ 2022,3M,5,1816
+191,RobertoFirmino,29,85,85,Liverpool,2015 ~ 2023,54M,185K,2180
+192,B.White,23,76,85,Arsenal,2021 ~ 2026,15.5M,52K,1664
+193,T.Werner,25,84,87,Chelsea,2020 ~ 2025,56.5M,155K,2012
+194,K.Tierney,24,80,86,Arsenal,2019 ~ 2024,31M,69K,2083
+195,PedroPorro,21,80,87,Sporting CP ," 30, 2022 ",40.5M,80K,2069
+196,F.Valverde,22,83,89,Real Madrid CF,2016 ~ 2027,58M,160K,2175
+197,RúbenDias,24,87,91,Manchester City,2020 ~ 2027,102.5M,170K,1886
+198,W.Saliba,20,76,84,Olympique de Marseille ," 30, 2022 ",15.5M,43K,1756
+199,TallesMagno,19,67,85,New York City FC,2021 ~ 2026,2.6M,2K,1584
+200,Brahim,21,78,86,AC Milan ," 30, 2023 ",31.5M,90K,1818
+201,RiquiPuig,21,76,85,FC Barcelona,2018 ~ 2023,17M,75K,1907
+202,J.Maddison,24,82,84,Leicester City,2018 ~ 2024,39.5M,100K,2081
+203,J.Boateng,32,83,83,Olympique Lyonnais,2021 ~ 2023,23.5M,81K,1943
+204,Emerson,22,79,84,Tottenham Hotspur,2021 ~ 2026,25M,70K,2034
+205,R.AïtNouri,20,73,84,Wolverhampton Wanderers,2021 ~ 2026,6.5M,35K,1762
+206,M.Neuer,35,90,90,FC Bayern München,2011 ~ 2023,13.5M,86K,1534
+207,cmD.Brooks,23,76,82,AFC Bournemouth,2018 ~ 2022,12M,33K,1937
+208,O.Dembélé,24,83,88,FC Barcelona,2017 ~ 2022,55M,165K,1990
+209,L.Díaz,24,80,86,FC Porto,2019 ~ 2024,33.5M,16K,1938
+210,M.Caqueret,21,78,85,Olympique Lyonnais,2018 ~ 2023,27M,39K,1970
+211,Coutinho,29,82,82,FC Barcelona,2018 ~ 2023,30M,165K,2086
+212,O.Skipp,20,75,83,Tottenham Hotspur,2018 ~ 2024,11.5M,44K,1795
+213,S.Agüero,33,87,87,FC Barcelona,2021 ~ 2023,51M,260K,2068
+214,G.Bale,31,82,82,Real Madrid CF,2013 ~ 2022,25M,170K,2177
+215,BrunoGuimarães,23,79,84,Olympique Lyonnais,2020 ~ 2024,24.5M,52K,2057
+216,cosAntonio,21,73,85,Shakhtar Donetsk,2019 ~ 2025,7.5M,6,1839
+217,T.Weah,21,74,81,LOSC Lille,2019 ~ 2024,8.5M,24K,1889
+218,C.Patino,17,62,85,Arsenal,2020 ~ 2022,1.2M,2K,1658
+219,G.Donnarumma,22,89,93,Paris Saint-Germain,2021 ~ 2026,119.5M,110K,1377
+220,CarlosSoler,24,81,88,Valencia CF,2015 ~ 2023,51.5M,39K,2169
+221,V.vanDijk,29,89,89,Liverpool,2018 ~ 2025,86M,230K,2104
+222,Palhinha,25,82,87,Sporting CP,2015 ~ 2025,41M,18K,2033
+223,ÁlexCentelles,21,75,85,Unión Deportiva Almería,2020 ~ 2022,12M,8K,1882
+224,A.ZakharyanFree,18,70,84, RussiaFree,,0,0,1773
+225,Y.Bissouma,24,79,84,Brighton &amp; Hove Albion,2018 ~ 2023,24.5M,50K,2105
+226,S.Giménez,20,71,84,Cruz Azul,2018 ~ 2023,4.5M,29K,1754
+227,R.DePaul,27,82,83,Atlético de Madrid,2021 ~ 2026,35M,68K,2180
+228,B.Chilwell,24,82,86,Chelsea,2020 ~ 2025,40.5M,100K,2058
+229,LowJ.Rodríguez,29,81,81,Everton,2020 ~ 2022,25.5M,105K,2091
+230,MediumGonçaloRamos,20,72,86,SL Benfica,2019 ~ 2025,5.5M,8K,1851
+231,A.Sima,20,73,86,Stoke City ," 30, 2022 ",7.5M,31K,1888
+232,ÁlexBalde,17,67,83,FC Barcelona,2021 ~ 2024,2.4M,1K,1482
+233,M.Reus,32,85,85,Borussia Dortmund,2012 ~ 2023,43M,95K,2126
+234,Kepa,26,79,83,Chelsea,2018 ~ 2025,19M,76K,1299
+235,L.Spinazzola,28,83,83,Roma,2019 ~ 2024,33M,72K,2110
+236,A.Wan-Bissaka,23,83,87,Manchester United,2019 ~ 2024,48.5M,115K,2005
+237,C.Nkunku,23,81,86,RB Leipzig,2019 ~ 2024,39M,72K,2127
+238,I.Meslier,21,77,85,Leeds United,2020 ~ 2026,20.5M,34K,1206
+239,NunoTavares,21,70,80,Arsenal,2021 ~ 2026,3.4M,24K,1860
+240,N.Williams,20,68,82,Liverpool,2018 ~ 2025,2.8M,21K,1671
+241,N.Williams,20,68,82,Liverpool,2018 ~ 2025,2.8M,21K,1671
+242,quinhos,27,87,90,Paris Saint-Germain,2013 ~ 2024,90.5M,135K,2074
+243,S.Botman,21,79,85,LOSC Lille,2020 ~ 2025,25.5M,27K,1736
+244,JoãoPedro,19,71,84,Watford,2020 ~ 2025,4.5M,20K,1646
+245,D.Núñez,22,76,85,SL Benfica,2020 ~ 2025,17M,13K,1961
+246,C.Immobile,31,87,87,Lazio,2016 ~ 2025,67.5M,125K,2065
+247,A.Rüdiger,28,83,84,Chelsea,2017 ~ 2022,34.5M,130K,1900
+248,A.Lunin,22,74,85,Real Madrid CF,2018 ~ 2024,8M,59K,1114
+249,A.Danjuma,24,77,82,Villarreal CF,2021 ~ 2026,16M,30K,1892
+250,MatheusCunha,22,79,86,Atlético de Madrid,2021 ~ 2026,35.5M,48K,1983
+251,Jorginho,29,85,85,Chelsea,2018 ~ 2023,52.5M,170K,2133
+252,L.Hernández,25,83,86,FC Bayern München,2019 ~ 2024,44.5M,85K,2007
+253,K.Laimer,24,81,85,RB Leipzig,2017 ~ 2023,33.5M,65K,2136
+254,Richarlison,24,82,87,Everton,2018 ~ 2024,46.5M,100K,2124
+255,D.Alaba,29,84,84,Real Madrid CF,2021 ~ 2026,35.5M,195K,2247
+256,J.Bogle,20,73,84,Sheffield United,2020 ~ 2024,6.5M,15K,1860
+257,I.Konaté,22,78,86,Liverpool,2021 ~ 2026,29.5M,73K,1705
+258,M.Simakan,21,75,85,RB Leipzig,2021 ~ 2026,12M,36K,1745
+259,Ç.Söyüncü,25,80,83,Leicester City,2018 ~ 2023,25M,88K,1840
+260,K.DeBruyne,30,91,91,Manchester City,2015 ~ 2025,125.5M,350K,2304
+261,H.Barnes,23,81,83,Leicester City,2016 ~ 2025,33.5M,95K,1969
+262,BryanGil,20,76,86,Tottenham Hotspur,2021 ~ 2026,16.5M,52K,1715
+263,T.Doyle,19,62,81,Hamburger SV,2019 ~ 2025,1M,2K,1714
+264,K.Sulemana,19,72,84,Stade Rennais FC,2021 ~ 2026,5.5M,19K,1761
+265,M.Boadu,20,76,85,AS Monaco,2021 ~ 2026,16.5M,36K,1836
+266,M.Özil,32,79,79,Fenerbahçe SK,2021 ~ 2024,14M,55K,1797
+267,A.Aouchiche,18,74,82,AS Saint-Étienne,2020 ~ 2023,9M,9K,1862
+268,A.Griezmann,30,85,85,Atlético de Madrid ," 30, 2022 ",53M,220K,2259
+269,DaniOlmo,23,82,87,RB Leipzig,2020 ~ 2024,46M,78K,2037
+270,N.Süle,25,82,87,FC Bayern München,2017 ~ 2022,40.5M,78K,1675
+271,BernardoSilva,26,86,86,Manchester City,2017 ~ 2025,74M,200K,2128
+272,J.Gomez,24,82,88,Liverpool,2015 ~ 2024,43.5M,100K,1809
+273,Y.En-Nesyri,24,82,86,Sevilla FC,2020 ~ 2025,44M,37K,1891
+274,M.Ihattaren,19,75,85,U.C. Sampdoria ," 30, 2022 ",12M,33K,1877
+275,D.Hancko,23,75,85,AC Sparta Praha,2021 ~ 2024,11.5M,8,1961
+276,DiogoJota,24,82,87,Liverpool,2020 ~ 2025,46M,120K,2148
+277,DeGea,30,84,84,Manchester United,2011 ~ 2023,28M,120K,1425
+278,LowT.Ndombele,24,82,87,Tottenham Hotspur,2019 ~ 2024,46M,95K,2118
+279,O.Wijndal,21,79,84,AZ Alkmaar,2016 ~ 2023,25M,10K,2016
+280,B.Soumaré,22,78,85,Leicester City,2021 ~ 2026,27M,68K,1984
+281,A.Christensen,25,80,85,Chelsea,2013 ~ 2022,28M,95K,1732
+282,Merino,25,83,87,Real Sociedad,2018 ~ 2025,50M,47K,2244
+283,D.Dumfries,25,82,84,Inter,2021 ~ 2025,35M,100K,2016
+284,L.Modrić,35,87,87,Real Madrid CF,2012 ~ 2022,32M,190K,2253
+285,L.Sané,25,84,87,FC Bayern München,2020 ~ 2025,56M,105K,2080
+286,T.Abraham,23,78,85,Roma,2021 ~ 2026,28.5M,49K,1766
+287,T.Kroos,31,88,88,Real Madrid CF,2014 ~ 2023,75M,310K,2148
+288,S.Gnabry,25,85,86,FC Bayern München,2017 ~ 2023,64.5M,110K,2080
+289,SamuCastillejo,26,77,77,AC Milan,2018 ~ 2023,11.5M,41K,1912
+290,D.Henderson,24,80,87,Manchester United,2015 ~ 2025,36M,70K,1250
+291,J.Willock,21,75,83,Newcastle United,2021 ~ 2026,12.5M,26K,1951
+292,R.Pepi,18,67,82,FC Dallas,2019 ~ 2022,2.4M,1K,1578
+293,B.Brobbey,19,73,85,RB Leipzig,2021 ~ 2025,7.5M,31K,1760
+294,M.Rogers,18,66,84,AFC Bournemouth,2019 ~ 2022,2.2M,4K,1671
+295,ArthurCabral,23,77,85,FC Basel 1893,2020 ~ 2023,23.5M,16K,1843
+296,F.Neuhaus,24,82,87,Borussia Mönchengladbach,2017 ~ 2024,46M,36K,2021
+297,M.Olise,19,73,85,Crystal Palace,2021 ~ 2026,7M,22K,1887
+298,YesA.Gomes,20,71,81,LOSC Lille,2020 ~ 2025,4.1M,15K,1863
+299,D.Calvert-Lewin,24,81,85,Everton,2016 ~ 2025,37.5M,90K,1963
+300,E.Konsa,23,78,84,Aston Villa,2019 ~ 2026,20M,50K,1838
+301,M.SafonovFree,22,72,82, RussiaFree,,0,0,1039
+302,A.Diallo,18,68,85,Manchester United,2021 ~ 2025,3.1M,12K,1627
+303,M.Verratti,28,87,87,Paris Saint-Germain,2012 ~ 2024,79.5M,155K,2202
+304,C.Clark,18,66,86,New York Red Bulls ," 31, 2021 ",2.4M,6K,1695
+305,W.McKennie,22,77,82,Juventus,2021 ~ 2025,16M,57K,2157
+306,K.Furuhashi,26,74,77,Celtic,2021 ~ 2025,5.5M,47K,1991
+307,L.Klostermann,25,80,84,RB Leipzig,2014 ~ 2024,26.5M,67K,1900
+308,K.Iheanacho,24,78,81,Leicester City,2017 ~ 2024,19.5M,83K,1934
+309,L.Pellegrini,25,81,86,Roma,2017 ~ 2022,38M,61K,2190
+310,M.Guendouzi,22,78,84,Olympique de Marseille ," 30, 2022 ",21M,59K,2071
+311,A.Sánchez,32,80,80,Inter,2020 ~ 2023,17M,105K,2066
+312,L.Bailey,23,82,86,Aston Villa,2021 ~ 2025,43.5M,75K,2011
+313,GabrielJesus,24,83,87,Manchester City,2016 ~ 2023,52.5M,150K,2063
+314,Trincão,21,76,85,Wolverhampton Wanderers ," 30, 2022 ",17M,84K,1895
+315,T.Müller,31,87,87,FC Bayern München,2008 ~ 2023,66M,140K,2136
+316,S.McTominay,24,80,84,Manchester United,2013 ~ 2025,27.5M,90K,2103
+317,L.Geertruida,20,76,84,Feyenoord,2017 ~ 2024,15.5M,8K,1882
+318,SergioRamos,35,88,88,Paris Saint-Germain,2021 ~ 2023,24M,115K,2251
+319,M.Cash,23,78,83,Aston Villa,2020 ~ 2025,20M,50K,1971
+320,O.Kabak,21,76,85,Norwich City ," 30, 2022 ",15.5M,9K,1707
+321,I.Hagi,22,74,82,Rangers FC,2020 ~ 2025,9.5M,41K,1899
+322,E.Ampadu,20,67,81,Venezia FC ," 30, 2022 ",2.3M,18K,1563
+323,Mingueza,22,75,83,FC Barcelona,2017 ~ 2023,12M,76K,1798
+324,J.Oblak,28,91,93,Atlético de Madrid,2014 ~ 2023,112M,130K,1413
+325,M.Škriniar,26,86,88,Inter,2017 ~ 2023,74M,150K,1829
+326,S.Esposito,18,68,85,FC Basel 1893 ," 30, 2022 ",3.1M,13K,1795
+327,J.Che,17,65,82,FC Dallas,2020 ~ 2023,1.7M,5,1527
+328,C.Gallagher,21,74,82,Crystal Palace ," 30, 2022 ",9.5M,53K,1889
+329,P.Struijk,21,74,83,Leeds United,2018 ~ 2024,9M,38K,1685
+330,J.Branthwaite,19,66,84,Everton,2020 ~ 2023,2.1M,9K,1417
+331,R.Jones,18,60,80,Peterborough United,2019 ~ 2025,675K,1K,1560
+332,O.Giroud,34,79,79,AC Milan,2021 ~ 2024,8.5M,48K,1892
+333,JoãoCancelo,27,86,87,Manchester City,2019 ~ 2025,71.5M,185K,2227
+334,R.Varane,28,86,88,Manchester United,2021 ~ 2025,68.5M,180K,1931
+335,HighJ.Justin,23,77,81,Leicester City,2019 ~ 2024,14M,64K,1901
+336,L.Suárez,23,77,86,Granada CF,2020 ~ 2022,23.5M,23K,1946
+337,D.Alli,25,80,82,Tottenham Hotspur,2015 ~ 2024,26.5M,90K,2123
+338,G.Montiel,24,78,84,Sevilla FC,2021 ~ 2026,21M,23K,2020
+339,G.Kobel,23,79,85,Borussia Dortmund,2021 ~ 2026,22.5M,36K,1158
+340,D.Zagadou,22,78,84,Borussia Dortmund,2017 ~ 2022,20.5M,42K,1632
+341,PedroNeto,21,78,85,Wolverhampton Wanderers,2019 ~ 2025,28.5M,62K,1842
+342,Iniesta,37,79,79,Vissel Kobe,2018 ~ 2024,5.5M,10K,1955
+343,A.Vidal,34,81,81,Inter,2020 ~ 2022,12M,105K,2224
+344,C.Eriksen,29,82,82,Inter,2020 ~ 2024,29.5M,120K,2009
+345,FelipeAnderson,28,78,78,Lazio,2021 ~ 2025,14M,58K,1984
+346,I.Bennacer,23,80,84,AC Milan,2019 ~ 2024,30M,41K,2160
+347,Silas,22,75,84,VfB Stuttgart,2019 ~ 2024,12.5M,22K,1897
+348,G.Higuaín,33,80,80,Inter Miami CF,2020 ~ 2022,13.5M,13K,1860
+349,A.Armstrong,24,76,82,Southampton,2021 ~ 2025,12M,46K,1969
+350,M.Edwards,22,76,84,Vitória de Guimarães,2019 ~ 2023,17M,11K,1798
+351,A.Saelemaekers,22,76,81,AC Milan,2020 ~ 2024,11.5M,34K,2002
+352,F.Ribéry,38,79,79,US Salernitana 1919,2021 ~ 2022,6M,41K,1880
+353,J.tínez,28,80,80,Atlanta United,2017 ~ 2023,21.5M,14K,1915
+354,K.Coman,25,86,87,FC Bayern München,2015 ~ 2023,81M,120K,1974
+355,A.Rebić,27,82,82,AC Milan,2020 ~ 2025,32.5M,54K,2101
+356,J.Hauge,21,76,83,Eintracht Frankfurt ," 30, 2022 ",15M,26K,1855
+357,A.Schjelderup,17,65,84,FC Nordsjælland,2020 ~ 2023,1.8M,5,1649
+358,DaniAlves,35,82,82,Paris Saint-Germain,2017 ~ 2019,4.8M,60K,2205
+359,A.Romagnoli,26,82,83,AC Milan,2015 ~ 2022,31.5M,49K,1765
+360,D.Livaković,26,82,87,Dinamo Zagreb,2015 ~ 2024,35M,1K,1335
+361,A.tial,25,81,84,Manchester United,2015 ~ 2024,34.5M,130K,2003
+362,G.LoCelso,25,81,85,Tottenham Hotspur,2020 ~ 2025,35.5M,95K,2174
+363,Rodri,25,86,89,Manchester City,2019 ~ 2024,81M,175K,2098
+364,D.Livaković,26,82,87,Dinamo Zagreb,2015 ~ 2024,35M,1K,1335
+365,P.Højbjerg,25,83,86,Tottenham Hotspur,2020 ~ 2025,43.5M,105K,2091
+366,J.Hernández,22,75,81,Watford,2017 ~ 2022,9M,44K,1905
+367,J.Ferreira,20,70,82,FC Dallas,2016 ~ 2023,3.8M,4K,1815
+368,J.Vagnoman,20,71,82,Hamburger SV,2018 ~ 2024,3.9M,7K,1763
+369,S.Greenwood,19,65,82,Leeds United,2020 ~ 2023,1.9M,11K,1648
+370,NicoGonzález,19,68,83,FC Barcelona,2020 ~ 2024,2.9M,23K,1797
+371,D.Sturridge,31,76,76,Perth Glory,2021 ~ 2022,6.5M,8K,1799
+372,M.Thuram,23,79,85,Borussia Mönchengladbach,2019 ~ 2023,27.5M,29K,1980
+373,A.Gouiri,21,78,85,OGC Nice,2020 ~ 2024,29M,29K,2013
+374,J.Gelhardt,19,66,82,Leeds United,2020 ~ 2024,2.2M,13K,1630
+375,I.Rakitić,33,82,82,Sevilla FC,2020 ~ 2024,18.5M,39K,2130
+376,P.Aubameyang,32,85,85,Arsenal,2018 ~ 2023,43.5M,145K,2049
+377,N.DelaCruz,24,78,84,River Plate,2017 ~ 2022,22M,17K,2182
+378,K.Dembélé,18,64,80,Celtic,2018 ~ 2022,1.5M,4K,1529
+379,J.Braaf,18,64,84,Manchester City,2018 ~ 2023,1.6M,9K,1735
+380,F.Mendy,26,83,86,Real Madrid CF,2019 ~ 2025,43.5M,170K,2148
+381,AndréSilva,25,84,85,RB Leipzig,2021 ~ 2026,51M,110K,2062
+382,R.Doan,23,76,82,PSV,2019 ~ 2024,12M,15K,1853
+383,GerardMoreno,29,86,86,Villarreal CF,2018 ~ 2027,68M,73K,2118
+384,DavidNeres,24,79,83,Ajax,2017 ~ 2023,25M,19K,1913
+385,HighE.Fernández,20,73,84,River Plate,2019 ~ 2023,6.5M,10K,1987
+386,Ibañez,22,77,85,Roma,2021 ~ 2025,22M,37K,1667
+387,K.Trippier,30,84,84,Atlético de Madrid,2019 ~ 2023,36.5M,74K,2183
+388,P.Estupiñán,23,79,85,Villarreal CF,2020 ~ 2027,26M,29K,1880
+389,M.Salisu,22,76,84,Southampton,2020 ~ 2024,15.5M,38K,1627
+390,J.Lingard,28,79,79,Manchester United,2011 ~ 2022,17.5M,115K,2093
+391,O.Zinchenko,24,80,85,Manchester City,2016 ~ 2024,29.5M,95K,2146
+392,E.Eze,23,77,83,Crystal Palace,2020 ~ 2025,16.5M,45K,1936
+393,R.Matondo,20,69,82,KSV Cercle Brugge ," 30, 2022 ",3.4M,5K,1699
+394,M.Götze,29,82,82,PSV,2020 ~ 2024,30M,29K,2082
+395,J.Ward-Prowse,26,81,84,Southampton,2011 ~ 2026,33.5M,69K,2139
+396,A.Ramsdale,23,75,82,Arsenal,2021 ~ 2025,9.5M,38K,1258
+397,NicoMelamed,20,74,86,RCD Espanyol de Barcelona,2019 ~ 2024,10M,12K,1861
+398,F.Pellistri,19,70,86,Deportivo Alavés ," 30, 2022 ",4.1M,27K,1732
+399,Thiago,30,86,86,Liverpool,2020 ~ 2024,65M,180K,2199
+400,K.Mbabu,26,79,82,VfL Wolfsburg,2019 ~ 2023,21M,59K,1979
+401,GonçaloGuedes,24,81,86,Valencia CF,2018 ~ 2024,39M,39K,1998
+402,B.Williams,20,75,80,Norwich City ," 30, 2022 ",8M,54K,1898
+403,A.Robertson,27,87,88,Liverpool,2017 ~ 2026,83.5M,175K,2163
+404,F.Farías,18,72,84,Club Atlético Colón,2020 ~ 2023,5.5M,5K,1842
+405,S.Umtiti,27,80,80,FC Barcelona,2016 ~ 2023,19.5M,125K,2020
+406,RicardoPereira,27,84,84,Leicester City,2018 ~ 2023,40.5M,130K,2186
+407,E.Barco,22,75,80,Atlanta United,2018 ~ 2022,8.5M,8K,1759
+408,O.Kossounou,20,73,84,Bayer 04 Leverkusen,2021 ~ 2026,6M,23K,1656
+409,C.Musonda,24,72,75,Chelsea,2013 ~ 2022,3.2M,51K,1624
+410,HwangHeeChan,25,75,78,Wolverhampton Wanderers ," 30, 2022 ",7.5M,58K,1890
+411,B.Mbeumo,21,72,80,Brentford,2019 ~ 2024,5.5M,26K,1917
+412,Zubimendi,22,75,85,Real Sociedad,2018 ~ 2025,12.5M,24K,1938
+413,M.Bulat,19,69,84,Dinamo Zagreb,2021 ~ 2027,3.3M,5,1943
+414,cosAlonso,30,79,79,Chelsea,2016 ~ 2023,15M,95K,2131
+415,N.Fekir,27,84,84,Real Betis Balompié,2019 ~ 2023,45M,42K,2117
+416,C.Lenglet,26,82,86,FC Barcelona,2018 ~ 2026,37.5M,145K,1895
+417,A.Maitland-Niles,23,75,81,Arsenal,2014 ~ 2023,8M,49K,1979
+418,D.Calabria,24,78,81,AC Milan,2015 ~ 2025,18M,31K,1963
+419,L.Nmecha,22,74,81,VfL Wolfsburg,2021 ~ 2025,8.5M,43K,1879
+420,DiogoDalot,22,76,82,Manchester United,2018 ~ 2023,11.5M,68K,1990
+421,K.Navas,34,88,88,Paris Saint-Germain,2019 ~ 2024,15.5M,130K,1428
+422,J.Tarkowski,28,81,82,Burnley,2016 ~ 2022,24.5M,46K,1869
+423,YesC.CásseresJr,21,71,81,New York Red Bulls,2018 ~ 2021,4M,4K,1912
+424,J.Todibo,21,76,84,OGC Nice,2021 ~ 2026,15.5M,20K,1782
+425,RenanLodi,23,81,86,Atlético de Madrid,2019 ~ 2025,36.5M,49K,2161
+426,FranciscoConceição,18,70,86,FC Porto,2021 ~ 2023,4M,3K,1643
+427,T.Livramento,18,62,78,Southampton,2021 ~ 2026,975K,2K,1651
+428,Lean(-)V.Barco,16,63,83,Boca Juniors,2020 ~ 2023,1.3M,5,1542
+429,E.Cavani,34,85,85,Manchester United,2020 ~ 2022,26M,190K,2093
+430,R.Gosens,26,83,83,Atalanta,2017 ~ 2023,36M,65K,2192
+431,S.Córdova,24,75,81,Club América,2019 ~ 2025,9M,35K,1969
+432,O.Solet,21,71,80,FC Red Bull Salzburg,2020 ~ 2025,3.9M,11K,1723
+433,T.Dolan,19,68,83,Blackburn Rovers,2020 ~ 2024,2.9M,11K,1677
+434,B.Pavard,25,79,82,FC Bayern München,2019 ~ 2024,21.5M,64K,2000
+435,Reguilón,24,81,84,Tottenham Hotspur,2020 ~ 2025,32.5M,79K,2039
+436,UnaiSimón,24,82,86,Athletic Club de Bilbao,2015 ~ 2025,34.5M,24K,1283
+437,W.Zaha,28,82,82,Crystal Palace,2015 ~ 2023,30.5M,85K,1977
+438,E.Nketiah,22,74,81,Arsenal,2016 ~ 2022,8.5M,56K,1714
+439,S.Aurier,28,80,80,Villarreal CF,2021 ~ 2022,19M,37K,2084
+440,P.Kimpembe,25,83,87,Paris Saint-Germain,2015 ~ 2024,45.5M,90K,1951
+441,M.Senesi,24,79,85,Feyenoord,2019 ~ 2023,25M,12K,1773
+442,M.Hummels,32,86,86,Borussia Dortmund,2019 ~ 2023,44M,95K,2043
+443,Azpilicueta,31,83,83,Chelsea,2012 ~ 2022,25M,125K,2068
+444,SergioBusquets,32,86,86,FC Barcelona,2008 ~ 2023,45M,200K,2012
+445,K.Casteels,29,86,87,VfL Wolfsburg,2015 ~ 2024,52M,88K,1309
+446,M.Brozović,28,84,84,Inter,2016 ~ 2022,37M,130K,2203
+447,P.Schick,25,79,82,Bayer 04 Leverkusen,2020 ~ 2025,23.5M,57K,1912
+448,K.Koulibaly,30,86,86,Napoli,2014 ~ 2023,55.5M,105K,1705
+449,Grimaldo,25,82,85,SL Benfica,2016 ~ 2023,37M,18K,2184
+450,AndersonTalisca,27,82,83,Al Nassr,2021 ~ 2024,35.5M,61K,2168
+451,DouglasLuiz,23,77,84,Aston Villa,2019 ~ 2023,20M,47K,1997
+452,M.Daramy,19,69,82,Ajax,2021 ~ 2026,3.3M,5K,1675
+453,Casemiro,29,89,89,Real Madrid CF,2013 ~ 2025,88M,310K,2219
+454,D.Man,22,74,83,Parma,2021 ~ 2025,9.5M,5K,1947
+455,Saúl,26,82,85,Chelsea ," 30, 2022 ",39.5M,68K,2199
+456,D.Lainez,21,74,83,Real Betis Balompié,2019 ~ 2024,9.5M,15K,1878
+457,T.Nakai,17,61,83,Real Madrid CF,2020 ~ 2022,1M,2K,1462
+458,K.Dolberg,23,79,83,OGC Nice,2019 ~ 2024,25.5M,37K,1883
+459,MediumD.James,23,77,82,Leeds United,2021 ~ 2026,16M,62K,1922
+460,Miranda,21,76,84,Real Betis Balompié,2021 ~ 2024,16M,15K,1925
+461,M.Guéhi,20,73,84,Crystal Palace,2021 ~ 2026,6M,26K,1627
+462,M.Vušković,19,72,85,Hamburger SV ," 30, 2023 ",5M,5,1458
+463,H.Ziyech,28,84,84,Chelsea,2020 ~ 2025,42.5M,170K,2085
+464,G.Buffon,43,80,80,Parma,2021 ~ 2023,2.3M,3K,1270
+465,I.Perišić,32,81,81,Inter,2015 ~ 2022,20.5M,105K,2154
+466,L.Insigne,30,86,86,Napoli,2010 ~ 2022,65.5M,125K,2025
+467,L.Paredes,27,81,83,Paris Saint-Germain,2019 ~ 2023,28M,81K,2175
+468,F.Onyeka,23,75,81,Brentford,2021 ~ 2026,8M,33K,1975
+469,C.Kelleher,22,67,79,Liverpool,2017 ~ 2022,2.2M,17K,1042
+470,Fred,28,81,81,Manchester United,2018 ~ 2023,22.5M,120K,2167
+471,Fabinho,27,86,88,Liverpool,2018 ~ 2026,73.5M,165K,2163
+472,AyozePérez,27,77,77,Leicester City,2019 ~ 2023,11M,89K,2056
+473,J.Giménez,26,84,88,Atlético de Madrid,2013 ~ 2025,52M,74K,1795
+474,H.Lozano,25,81,82,Napoli,2019 ~ 2024,31M,77K,2013
+475,Paulinho,20,73,83,Bayer 04 Leverkusen,2018 ~ 2023,6.5M,26K,1821
+476,K.Mavropanos,23,73,82,VfB Stuttgart ," 30, 2022 ",6.5M,42K,1582
+477,Blanco,20,71,83,Real Madrid CF,2020 ~ 2022,4.5M,51K,1754
+478,E.Ndicka,21,77,84,Eintracht Frankfurt,2018 ~ 2023,20M,19K,1882
+479,C.Richards,21,71,84,TSG Hoffenheim ," 30, 2022 ",4.3M,24K,1616
+480,D.Dike,21,70,82,Orlando City Soccer Club,2020 ~ 2022,3.9M,4K,1542
+481,S.Handanovič,36,86,86,Inter,2012 ~ 2022,7.5M,78K,1289
+482,Allan,30,83,83,Everton,2020 ~ 2023,30.5M,100K,2130
+483,Arthur,24,83,85,Juventus,2020 ~ 2024,47M,90K,2154
+484,A.Lafont,22,78,83,FC Nantes,2021 ~ 2024,17.5M,18K,1232
+485,O.Richards,23,74,82,FC Bayern München,2021 ~ 2025,9M,40K,1788
+486,L.Cacace,20,72,83,Sint-Truidense VV,2020 ~ 2023,4.9M,8K,1952
+487,B.Badiashile,20,76,84,AS Monaco,2018 ~ 2024,15.5M,29K,1706
+488,L.Morales,21,72,85,Club Atlético Lanús,2019 ~ 2023,5M,6K,1335
+489,D.Dike,21,70,82,Orlando City Soccer Club,2020 ~ 2022,3.9M,4K,1542
+490,J.Harrison,24,78,84,Leeds United,2021 ~ 2024,22M,66K,1914
+491,M.Juwara,19,67,85,Crotone,2019 ~ 2024,2.7M,9,1630
+492,K.delaFuente,19,73,82,Olympique de Marseille,2021 ~ 2025,6.5M,19K,1670
+493,H.Mejbri,18,62,84,Manchester United,2020 ~ 2026,1.3M,6K,1643
+494,H.Siquet,18,69,83,Standard de Liège,2019 ~ 2022,3.1M,2K,1883
+495,S.Shoretire,17,62,84,Manchester United,2021 ~ 2024,1.2M,2K,1571
+496,J.Brandt,25,81,85,Borussia Dortmund,2019 ~ 2024,36M,64K,2016
+497,T.Adams,22,77,83,RB Leipzig,2019 ~ 2025,15.5M,49K,1937
+498,Dodô,22,73,84,Shakhtar Donetsk,2018 ~ 2025,6.5M,6,1917
+499,J.Ikoné,23,79,83,LOSC Lille,2018 ~ 2023,25M,36K,1906
+500,Z.Steffen,26,77,82,Manchester City,2019 ~ 2022,12M,73K,1321
+501,K.Walker,31,85,85,Manchester City,2017 ~ 2024,39M,170K,2194
+502,T.Courtois,29,89,91,Real Madrid CF,2018 ~ 2026,85.5M,250K,1327
+503,coAsensio,25,83,86,Real Madrid CF,2015 ~ 2023,48M,190K,2032
+504,N.González,23,77,83,Fiorentina,2021 ~ 2026,17M,47K,1903
+505,S.Ricci,19,67,84,Empoli,2019 ~ 2024,2.6M,8K,1771
+506,L.Thomas,20,71,81,Leicester City,2017 ~ 2024,3.9M,32K,1788
+507,D.Ayala,18,68,84,Estudiantes de La Plata,2019 ~ 2023,2.9M,1K,1719
+508,T.Koopmeiners,23,79,84,Atalanta,2021 ~ 2026,24.5M,41K,2141
+509,C.ChatzigavrielFree,17,58,84, CyprusFree,,0,0,919
+510,R.Mahrez,30,86,86,Manchester City,2018 ~ 2023,65.5M,220K,2035
+511,B.Embolo,24,77,82,Borussia Mönchengladbach,2019 ~ 2023,16M,27K,1995
+512,R.Cannon,23,73,82,Boavista FC,2020 ~ 2025,6.5M,10K,1779
+513,T.AlderweireldFree,32,83,83, BelgiumFree,,0,0,1991
+514,Gayà,26,83,86,Valencia CF,2012 ~ 2023,43.5M,48K,2097
+515,E.Can,27,82,83,Borussia Dortmund,2020 ~ 2024,35M,72K,2270
+516,IñakiWilliams,27,81,82,Athletic Club de Bilbao,2012 ~ 2028,30M,39K,2039
+517,Tete,21,76,86,Shakhtar Donetsk,2019 ~ 2023,17M,8,1808
+518,Y.Musah,18,71,82,Valencia CF,2019 ~ 2026,4M,7K,1837
+519,G.Wijnaldum,30,84,84,Paris Saint-Germain,2021 ~ 2024,40.5M,115K,2271
+520,Á.Diía,33,87,87,Paris Saint-Germain,2015 ~ 2022,49.5M,160K,2177
+521,A.Oxlade-Chamberlain,27,79,79,Liverpool,2017 ~ 2023,18.5M,100K,2122
+522,A.Rabiot,26,81,82,Juventus,2019 ~ 2023,30M,87K,2136
+523,V.Lindelöf,26,80,82,Manchester United,2017 ~ 2024,23M,105K,1967
+524,MediumLucasMoura,28,81,81,Tottenham Hotspur,2018 ~ 2024,26M,105K,2085
+525,Á.Correa,26,83,86,Atlético de Madrid,2014 ~ 2024,48M,80K,2127
+526,A.Vega,23,74,82,Club Deportivo Guadalajara,2019 ~ 2022,9.5M,37K,1870
+527,J.Sánchez,23,75,80,Club América,2018 ~ 2025,8M,32K,1880
+528,J.Sargent,21,71,82,Norwich City,2021 ~ 2025,4.2M,18K,1812
+529,Y.Adli,20,75,81,FC Girondins de Bordeaux ," 30, 2022 ",8.5M,25K,1974
+530,KanginLee,20,74,82,RCD Mallorca,2021 ~ 2025,9.5M,18K,1870
+531,K.Thuram,20,75,83,OGC Nice,2019 ~ 2024,11.5M,19K,1983
+532,GustavoAssunção,21,73,85,Galatasaray SK ," 30, 2022 ",7M,6K,1890
+533,A.Laporte,27,86,89,Manchester City,2018 ~ 2024,77M,185K,1976
+534,YesJ.Ngakia,20,69,81,Watford,2020 ~ 2024,3.2M,15K,1581
+535,HéctorBellerín,26,78,81,Real Betis Balompié ," 30, 2022 ",17M,69K,1946
+536,M.Cornet,24,75,78,Burnley,2021 ~ 2026,7M,25K,2100
+537,M.Cuisance,21,73,80,FC Bayern München,2019 ~ 2024,6M,35K,1957
+538,D.Fofana,18,63,83,Molde FK,2021 ~ 2024,1.3M,7,1622
+539,J.Teze,21,74,81,PSV,2016 ~ 2024,8M,10K,1843
+540,M.Solomon,21,76,86,Shakhtar Donetsk,2019 ~ 2023,17M,8,1829
+541,S.Nasri,32,74,74,RSC Anderlecht,2019 ~ 2020,4.4M,18K,1787
+542,J.Corona,28,82,82,FC Porto,2015 ~ 2022,30.5M,22K,2167
+543,R.Bazoer,24,76,80,Vitesse,2019 ~ 2022,9.5M,14K,2093
+544,C.Pavón,25,78,81,Boca Juniors,2014 ~ 2022,18.5M,20K,2051
+545,S.Berge,23,76,82,Sheffield United,2020 ~ 2024,11M,23K,1958
+546,E.Palacios,22,77,83,Bayer 04 Leverkusen,2020 ~ 2025,17M,41K,2019
+547,J.Teze,21,74,81,PSV,2016 ~ 2024,8M,10K,1843
+548,DavidSilva,35,85,85,Real Sociedad,2020 ~ 2022,22M,44K,2042
+549,J.Henderson,31,84,84,Liverpool,2011 ~ 2025,29.5M,140K,2198
+550,G.Bazunu,19,64,82,Portsmouth,2019 ~ 2024,1.3M,1K,980
+551,M.Baturina,18,65,84,Dinamo Zagreb,2021 ~ 2027,1.8M,5,1756
+552,J.Stones,27,83,86,Manchester City,2016 ~ 2026,41M,140K,1959
+553,M.Ginter,27,84,85,Borussia Mönchengladbach,2017 ~ 2022,42.5M,45K,1961
+554,P.Gollini,26,82,87,Tottenham Hotspur ," 30, 2022 ",35M,48K,1264
+555,D.Gray,25,75,78,Everton,2021 ~ 2024,7.5M,66K,1790
+556,DaniCeballos,24,77,80,Real Madrid CF,2017 ~ 2023,14.5M,100K,2012
+557,W.Weghorst,28,83,83,VfL Wolfsburg,2018 ~ 2023,37M,95K,1919
+558,K.Ajer,23,75,83,Brentford,2021 ~ 2026,11.5M,33K,1818
+559,Fabián,25,82,86,Napoli,2018 ~ 2023,42M,77K,2115
+560,Gabriel,23,79,84,Arsenal,2020 ~ 2025,24M,65K,1713
+561,N.Vlašić,23,80,86,West Ham United,2021 ~ 2026,33.5M,66K,2046
+562,Lean(+)T.Castagne,25,79,82,Leicester City,2020 ~ 2025,21.5M,84K,1948
+563,A.Meret,24,79,86,Napoli,2018 ~ 2023,30M,40K,1214
+564,T.Cantwell,23,75,82,Norwich City,2016 ~ 2022,11.5M,28K,1809
+565,O.Kökçü,20,76,84,Feyenoord,2017 ~ 2025,16.5M,9K,2015
+566,J.Garner,20,69,84,Nottingham Forest ," 30, 2022 ",3.2M,26K,1810
+567,V.Tsygankov,23,80,86,Dynamo Kyiv,2015 ~ 2023,33.5M,1K,1954
+568,Puado,23,78,85,RCD Espanyol de Barcelona,2017 ~ 2025,28M,19K,1967
+569,kgK.Hoever,19,65,80,Wolverhampton Wanderers,2020 ~ 2025,1.6M,8K,1663
+570,S.Muñoz,18,67,83,Newcastle United ," 31, 2022 ",2.6M,3K,1640
+571,Falcao,35,78,78,Rayo Vallecano,2021 ~ 2022,6M,19K,1927
+572,Morata,28,83,83,Juventus ," 30, 2022 ",37M,84K,1945
+573,S.Bergwijn,23,80,83,Tottenham Hotspur,2020 ~ 2025,29M,82K,2036
+574,MexicoJ.Araujo,19,69,80,LA Galaxy,2019 ~ 2025,2.9M,2K,1694
+575,T.Souček,26,82,85,West Ham United,2020 ~ 2024,36M,81K,2110
+576,PortugalMatheusNunes,22,76,85,Sporting CP,2019 ~ 2025,17M,12K,1987
+577,M.vandeVen,20,68,84,VfL Wolfsburg,2021 ~ 2025,3M,13K,1668
+578,W.Rooney,34,76,76,Derby County,2020 ~ 2021,3.5M,29K,2055
+579,celo,33,80,80,Real Madrid CF,2007 ~ 2022,11M,135K,2157
+580,M.terStegen,29,90,92,FC Barcelona,2014 ~ 2025,99M,250K,1444
+581,M.Svilar,21,68,80,SL Benfica,2017 ~ 2022,2.6M,3K,1277
+582,HighJ.Shackleton,21,70,80,Leeds United,2017 ~ 2024,3.4M,24K,1793
+583,G.Chiellini,36,86,86,Juventus,2005 ~ 2023,12M,88K,1851
+584,R.Jiménez,30,83,83,Wolverhampton Wanderers,2019 ~ 2024,35.5M,120K,2089
+585,M.Sabitzer,27,84,85,FC Bayern München,2021 ~ 2025,48M,110K,2229
+586,T.Bakayoko,26,79,81,AC Milan ," 30, 2023 ",19.5M,95K,1904
+587,N.Pépé,26,81,82,Arsenal,2019 ~ 2024,30.5M,95K,2005
+588,J.Bijlow,23,78,86,Feyenoord,2015 ~ 2025,27M,8K,1231
+589,Normal(-)RúbenVinagre,22,75,85,Sporting CP ," 30, 2022 ",12M,49K,1928
+590,H.Abe,22,67,79,FC Barcelona,2019 ~ 2023,2.5M,30K,1657
+591,M.Longstaff,21,71,82,Aberdeen ," 30, 2022 ",4.2M,18K,1872
+592,Normal(-)I.Maatsen,19,66,82,Coventry City,2019 ~ 2022,2.1M,3K,1679
+593,A.Onana,19,68,83,LOSC Lille,2021 ~ 2026,2.7M,6K,1756
+594,F.Kostić,28,84,84,Eintracht Frankfurt,2019 ~ 2023,42.5M,52K,2227
+595,Angeliño,24,83,86,RB Leipzig,2021 ~ 2025,46M,77K,2209
+596,N.Keïta,26,80,83,Liverpool,2018 ~ 2023,27.5M,110K,2064
+597,NélsonSemedo,27,80,81,Wolverhampton Wanderers,2020 ~ 2023,22M,81K,2017
+598,M.Bakker,21,74,81,Bayer 04 Leverkusen,2021 ~ 2025,8M,25K,1870
+599,N.Collins,17,60,82,Borussia Dortmund,2021 ~ 2023,725K,5,1392
+600,O.Boscagli,23,76,81,PSV,2019 ~ 2025,10M,14K,1922
